@@ -26,9 +26,14 @@ a:hover,
 a:focus {
   color: #0085a1;
 }
+
+a img {
+  margin-top:15px;
+}
+
 a img:hover,
 a img:focus {
-  cursor: zoom-in;
+  cursor:default;
 }
 blockquote {
   color: #808080;
