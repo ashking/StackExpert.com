@@ -258,7 +258,7 @@ Interesting? Yes, definitely it is. Your imagination can go limitless when you h
 
 Another post on async is coming soon. 
 
-Feel free to mail me at ak@stackexpert.com or tweet me @ashwinkumar_k if you want to have chat about it. 
+Feel free to mail me at <a href="mailto:ak@stackexpert.com?Subject=Nodejs-async" target="_top">ak@stackexpert.com</a> or tweet me <a href="https://twitter.com/ashwinkumar_k" target="_blank">@ashwinkumar_k</a> if you want to have chat about it. 
 
 Cheers, 
 <br> 
